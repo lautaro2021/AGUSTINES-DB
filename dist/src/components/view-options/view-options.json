@@ -1,0 +1,21 @@
+{
+    "collectionName": "components_view_options_view_options",
+    "info": {
+        "displayName": "viewOptions"
+    },
+    "options": {},
+    "attributes": {
+        "title": {
+            "type": "string"
+        },
+        "barrelColor": {
+            "type": "string"
+        },
+        "producto": {
+            "displayName": "producto",
+            "type": "component",
+            "repeatable": true,
+            "component": "producto.producto"
+        }
+    }
+}

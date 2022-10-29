@@ -1,0 +1,25 @@
+{
+    "collectionName": "components_etiquetas_etiquetas",
+    "info": {
+        "displayName": "etiquetas"
+    },
+    "options": {},
+    "attributes": {
+        "logo": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ],
+            "type": "media",
+            "multiple": false
+        },
+        "title": {
+            "type": "string"
+        },
+        "description": {
+            "type": "text"
+        }
+    }
+}

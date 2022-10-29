@@ -1,0 +1,34 @@
+{
+    "collectionName": "components_productos_productos",
+    "info": {
+        "displayName": "productos",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "foto": {
+            "type": "media",
+            "multiple": false,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        },
+        "title": {
+            "type": "string"
+        },
+        "fotoHover": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ],
+            "type": "media",
+            "multiple": false
+        }
+    }
+}

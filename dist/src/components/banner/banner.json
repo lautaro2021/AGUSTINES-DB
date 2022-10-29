@@ -1,0 +1,31 @@
+{
+    "collectionName": "components_banner_banner_s",
+    "info": {
+        "displayName": "banner ",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "logo": {
+            "type": "media",
+            "multiple": false,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        },
+        "foto2": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ],
+            "type": "media",
+            "multiple": false
+        }
+    }
+}

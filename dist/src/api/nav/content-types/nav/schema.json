@@ -1,0 +1,22 @@
+{
+    "kind": "collectionType",
+    "collectionName": "navs",
+    "info": {
+        "singularName": "nav",
+        "pluralName": "navs",
+        "displayName": "Nav",
+        "description": ""
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "nav": {
+            "displayName": "nav",
+            "type": "component",
+            "repeatable": false,
+            "component": "nav.nav"
+        }
+    }
+}

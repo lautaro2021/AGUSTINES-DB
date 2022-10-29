@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_flyers_flyers",
+  "info": {
+    "displayName": "flyers",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "foto1": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "foto2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

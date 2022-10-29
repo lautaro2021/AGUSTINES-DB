@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_carrousel2_carrousel2s",
+  "info": {
+    "displayName": "carrousel2"
+  },
+  "options": {},
+  "attributes": {
+    "productos": {
+      "type": "component",
+      "repeatable": true,
+      "component": "productos.productos"
+    },
+    "carImg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

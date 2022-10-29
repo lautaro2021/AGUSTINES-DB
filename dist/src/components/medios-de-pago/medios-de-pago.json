@@ -1,0 +1,15 @@
+{
+    "collectionName": "components_medios_de_pago_medios_de_pagos",
+    "info": {
+        "displayName": "MediosDePago"
+    },
+    "options": {},
+    "attributes": {
+        "etiquetas": {
+            "displayName": "etiquetas",
+            "type": "component",
+            "repeatable": true,
+            "component": "etiquetas.etiquetas"
+        }
+    }
+}

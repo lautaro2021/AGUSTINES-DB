@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "home": {
+      "type": "dynamiczone",
+      "components": [
+        "hero.hero",
+        "nav.nav",
+        "medios-de-pago.medios-de-pago",
+        "carrousel.carrousel",
+        "flyers.flyers",
+        "carrousel2.carrousel2",
+        "footer.footer",
+        "banner.banner",
+        "view-options.view-options"
+      ]
+    }
+  }
+}
