@@ -1,4 +1,4 @@
-const parse = require('pg-connection-striung').parse;
+const parse = require('pg-connection-string').parse;
 
 export default ({ env }) => {{
 
